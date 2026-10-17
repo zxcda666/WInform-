@@ -1,0 +1,15 @@
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\bin\Debug\PressurizationStationPro.exe.config
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\bin\Debug\PressurizationStationPro.exe
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\bin\Debug\PressurizationStationPro.pdb
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\bin\Debug\xbd.ControlLib.dll
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\bin\Debug\xbd.ControlLib.pdb
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\obj\Debug\PressurizationStationPro.csproj.AssemblyReference.cache
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\obj\Debug\PressurizationStationPro.FrmMain.resources
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\obj\Debug\PressurizationStationPro.MeterShow.resources
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\obj\Debug\PressurizationStationPro.Properties.Resources.resources
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\obj\Debug\PressurizationStationPro.csproj.GenerateResource.cache
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\obj\Debug\PressurizationStationPro.csproj.CoreCompileInputs.cache
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\obj\Debug\Pressuri.218534CB.Up2Date
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\obj\Debug\PressurizationStationPro.exe
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\obj\Debug\PressurizationStationPro.pdb
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\obj\Debug\PressurizationStationPro.exe.config
