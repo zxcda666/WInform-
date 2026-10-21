@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5DB90CF-1E10-459B-B6DF-E186B440B443}|PressurizationStationPro\\PressurizationStationPro.csproj|d:\\code1\\pressurizationstationpro\\winform-\\pressurizationstationpro\\pressurizationstationpro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A5DB90CF-1E10-459B-B6DF-E186B440B443}|PressurizationStationPro\\PressurizationStationPro.csproj|solutionrelative:pressurizationstationpro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5DB90CF-1E10-459B-B6DF-E186B440B443}|PressurizationStationPro\\PressurizationStationPro.csproj|D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\pressurizationstationpro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5DB90CF-1E10-459B-B6DF-E186B440B443}|PressurizationStationPro\\PressurizationStationPro.csproj|solutionrelative:pressurizationstationpro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5DB90CF-1E10-459B-B6DF-E186B440B443}|PressurizationStationPro\\PressurizationStationPro.csproj|D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\pressurizationstationpro\\metershow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A5DB90CF-1E10-459B-B6DF-E186B440B443}|PressurizationStationPro\\PressurizationStationPro.csproj|solutionrelative:pressurizationstationpro\\metershow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A5DB90CF-1E10-459B-B6DF-E186B440B443}|PressurizationStationPro\\PressurizationStationPro.csproj|d:\\code1\\pressurizationstationpro\\winform-\\pressurizationstationpro\\pressurizationstationpro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5DB90CF-1E10-459B-B6DF-E186B440B443}|PressurizationStationPro\\PressurizationStationPro.csproj|solutionrelative:pressurizationstationpro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DB90CF-1E10-459B-B6DF-E186B440B443}|PressurizationStationPro\\PressurizationStationPro.csproj|d:\\code1\\pressurizationstationpro\\winform-\\pressurizationstationpro\\pressurizationstationpro\\s7netlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DB90CF-1E10-459B-B6DF-E186B440B443}|PressurizationStationPro\\PressurizationStationPro.csproj|solutionrelative:pressurizationstationpro\\s7netlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DB90CF-1E10-459B-B6DF-E186B440B443}|PressurizationStationPro\\PressurizationStationPro.csproj|d:\\code1\\pressurizationstationpro\\winform-\\pressurizationstationpro\\pressurizationstationpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DB90CF-1E10-459B-B6DF-E186B440B443}|PressurizationStationPro\\PressurizationStationPro.csproj|solutionrelative:pressurizationstationpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5DB90CF-1E10-459B-B6DF-E186B440B443}|PressurizationStationPro\\PressurizationStationPro.csproj|D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\pressurizationstationpro\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +27,8 @@
       "RelativeMoniker": "D:0:0:{A5DB90CF-1E10-459B-B6DF-E186B440B443}|PressurizationStationPro\\PressurizationStationPro.csproj|solutionrelative:pressurizationstationpro\\metershow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5DB90CF-1E10-459B-B6DF-E186B440B443}|PressurizationStationPro\\PressurizationStationPro.csproj|D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\pressurizationstationpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5DB90CF-1E10-459B-B6DF-E186B440B443}|PressurizationStationPro\\PressurizationStationPro.csproj|solutionrelative:pressurizationstationpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5DB90CF-1E10-459B-B6DF-E186B440B443}|PressurizationStationPro\\PressurizationStationPro.csproj|D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\pressurizationstationpro\\metershow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5DB90CF-1E10-459B-B6DF-E186B440B443}|PressurizationStationPro\\PressurizationStationPro.csproj|solutionrelative:pressurizationstationpro\\metershow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,36 +38,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmMain.cs",
-              "DocumentMoniker": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\PressurizationStationPro\\FrmMain.cs",
-              "RelativeDocumentMoniker": "PressurizationStationPro\\FrmMain.cs",
-              "ToolTip": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\PressurizationStationPro\\FrmMain.cs*",
-              "RelativeToolTip": "PressurizationStationPro\\FrmMain.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAASwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T02:54:52.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "FrmMain.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\PressurizationStationPro\\FrmMain.cs",
               "RelativeDocumentMoniker": "PressurizationStationPro\\FrmMain.cs",
-              "ToolTip": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\PressurizationStationPro\\FrmMain.cs [\u8BBE\u8BA1]*",
-              "RelativeToolTip": "PressurizationStationPro\\FrmMain.cs [\u8BBE\u8BA1]*",
+              "ToolTip": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\PressurizationStationPro\\FrmMain.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "PressurizationStationPro\\FrmMain.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T02:42:17.591Z",
+              "WhenOpened": "2026-10-21T07:24:42.862Z",
               "EditorCaption": " [\u8BBE\u8BA1]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "S7NetLib.cs",
+              "DocumentMoniker": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\PressurizationStationPro\\S7NetLib.cs",
+              "RelativeDocumentMoniker": "PressurizationStationPro\\S7NetLib.cs",
+              "ToolTip": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\PressurizationStationPro\\S7NetLib.cs",
+              "RelativeToolTip": "PressurizationStationPro\\S7NetLib.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAswLoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:15:09.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\PressurizationStationPro\\Program.cs",
+              "RelativeDocumentMoniker": "PressurizationStationPro\\Program.cs",
+              "ToolTip": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\PressurizationStationPro\\Program.cs",
+              "RelativeToolTip": "PressurizationStationPro\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:38:14.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MeterShow.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\PressurizationStationPro\\MeterShow.cs",
               "RelativeDocumentMoniker": "PressurizationStationPro\\MeterShow.cs",
@@ -74,7 +91,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\PressurizationStationPro\\FrmMain.cs",
+              "RelativeDocumentMoniker": "PressurizationStationPro\\FrmMain.cs",
+              "ToolTip": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\PressurizationStationPro\\FrmMain.cs",
+              "RelativeToolTip": "PressurizationStationPro\\FrmMain.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T02:54:52.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MeterShow.cs",
               "DocumentMoniker": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\PressurizationStationPro\\MeterShow.cs",
               "RelativeDocumentMoniker": "PressurizationStationPro\\MeterShow.cs",
@@ -86,28 +116,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FrmMain.Designer.cs",
               "DocumentMoniker": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\PressurizationStationPro\\FrmMain.Designer.cs",
               "RelativeDocumentMoniker": "PressurizationStationPro\\FrmMain.Designer.cs",
-              "ToolTip": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\PressurizationStationPro\\FrmMain.Designer.cs*",
-              "RelativeToolTip": "PressurizationStationPro\\FrmMain.Designer.cs*",
-              "ViewState": "AgIAAKwDAAAAAAAAAAAhwCMFAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\PressurizationStationPro\\FrmMain.Designer.cs",
+              "RelativeToolTip": "PressurizationStationPro\\FrmMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-17T02:12:56.981Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\PressurizationStationPro\\Program.cs",
-              "RelativeDocumentMoniker": "PressurizationStationPro\\Program.cs",
-              "ToolTip": "D:\\code1\\PressurizationStationPro\\WInform-\\PressurizationStationPro\\PressurizationStationPro\\Program.cs",
-              "RelativeToolTip": "PressurizationStationPro\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T13:38:14.293Z"
             }
           ]
         }

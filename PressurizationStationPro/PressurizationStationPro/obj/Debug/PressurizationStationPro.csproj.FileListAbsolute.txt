@@ -13,3 +13,7 @@ D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\Pressurizati
 D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\obj\Debug\PressurizationStationPro.exe
 D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\obj\Debug\PressurizationStationPro.pdb
 D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\obj\Debug\PressurizationStationPro.exe.config
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\bin\Debug\xbd.s7netplus.dll
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\bin\Debug\xbd.s7netplus.pdb
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\bin\Debug\xbd.DataConvertLib.dll
+D:\code1\PressurizationStationPro\WInform-\PressurizationStationPro\PressurizationStationPro\bin\Debug\xbd.DataConvertLib.pdb

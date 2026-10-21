@@ -1,0 +1,52 @@
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\bin\Debug\xbd.ControlLib.dll
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\bin\Debug\xbd.ControlLib.pdb
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.csproj.AssemblyReference.cache
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.Properties.Resources.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdValve.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdWave.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdAnalogMeter.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdDashBoard.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdDialPlate.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdGaugeLinear.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdHeadPanel.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdLed.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdProgress.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdPump.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdBattery.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdSwitch.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdThermometer.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdToggle.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdGauge.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdFlowControl.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdState.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.csproj.GenerateResource.cache
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.csproj.CoreCompileInputs.cache
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.dll
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.pdb
+C:\Users\94693\Desktop\xbd.PressurizationStationPro (1)\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdMotor.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\bin\Debug\xbd.ControlLib.dll
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\bin\Debug\xbd.ControlLib.pdb
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.csproj.AssemblyReference.cache
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.Properties.Resources.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdValve.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdWave.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdAnalogMeter.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdDashBoard.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdDialPlate.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdGaugeLinear.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdHeadPanel.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdLed.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdProgress.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdMotor.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdPump.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdBattery.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdSwitch.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdThermometer.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdToggle.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdGauge.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdFlowControl.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.xbdState.resources
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.csproj.GenerateResource.cache
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.csproj.CoreCompileInputs.cache
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.dll
+C:\Users\94693\Desktop\xbd.PressurizationStationPro\xbd.ControlLib\obj\Debug\xbd.ControlLib.pdb
